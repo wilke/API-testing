@@ -1,0 +1,2 @@
+echo "initialize environment"
+whoami
